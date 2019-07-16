@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">nuevoedittextValidar</string>
+    <string name="txt_nombre">Usuario</string>
+    <string name="txt_pws">Password</string>
+    <string name="bt">Registra</string>
+    <string name="tv1">Acceso</string>
+    <string name="bt2">Regresar</string>
+</resources>
